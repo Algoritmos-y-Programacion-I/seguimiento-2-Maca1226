@@ -1,3 +1,19 @@
+/* Analisis: En este programa se necesita ayudar a Carlos para crear un sistema en el cual 
+ puede gestionar la información de sus clientes para que se le facilite su trabajo. En este programa
+ se necesitan 5 clases las cuales son: Main, Controller, Cliente, Cuenta y BancoIcesiController. 
+ Entradas: int = cantidad de clientes a manejar
+           string = nombre
+           int = edad
+           int = cedula
+           int = número de cuentas
+           String = banco
+           Enum = tipo de cuenta
+           
+ Salidas: Mensaje de error o confirmación
+          Al consultar cliente: imprimir sus datos y detalle de cada cuenta
+          Saldo total      
+        
+*/
 package ui;
 
 import java.util.Scanner;
